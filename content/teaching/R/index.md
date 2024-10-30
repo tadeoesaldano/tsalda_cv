@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Learn R
+summary: Easily learn R in 10 minutes!
+date: 2024-10-30
 type: docs
 math: false
 tags:
-  - Python
+  - R studio
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
