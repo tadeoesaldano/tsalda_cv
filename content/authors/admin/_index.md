@@ -51,8 +51,7 @@ interests:
   
 
 education:
-  - area:  PhD at National University of Quilmes (UNQ) in Science and Technology - Biophysics and
-bioinformatics.
+  - area:  PhD at National University of Quilmes (UNQ) in Science and Technology
     institution: National University of Quilmes
     date_start: 2013-04-01
     date_end: 2018-12-01
